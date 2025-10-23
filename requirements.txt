@@ -1,0 +1,30 @@
+# Core dependencies for GILDA UI
+# Tkinter is included with Python, but these enhance the experience
+
+# For enhanced GUI components (optional)
+# customtkinter>=5.0.0
+
+# For map integration (when implementing real maps)
+# tkintermapview>=1.24
+
+# For data handling
+# pandas>=1.5.0
+# numpy>=1.21.0
+
+# For audio processing (future enhancement)
+# pyaudio>=0.2.11
+# scipy>=1.9.0
+
+# For network communication (future enhancement)
+# requests>=2.28.0
+# websockets>=10.4
+
+# For configuration management
+# pyyaml>=6.0
+
+# For testing (development)
+# pytest>=7.0.0
+# pytest-tk>=0.1.0
+
+# Note: Start with just Python standard library
+# Uncomment packages as needed for additional features
